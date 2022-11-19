@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Profile</title>
+    <link>https://fmplaza.github.io/</link>
+    <description>Recent content on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://fmplaza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/gallery/</guid>
+      <description>Gallery 📸 A photo tour of several conferences I have attended/participated in 🌍
+ .image { display: inline-block; } }  AETER 2022, Madrid, Spain 🇪🇸
+ LREC 2022, Marseille, France 🇫🇷
+  COLING 2022, Virtual 👩🏻‍💻
+ SEPLN 2022, Galicia, Spain 🇪🇸
+  CLEF 2019, Lugano, Switzerland 🇨🇭
+ SEPLN 2019, Bilbao, Spain 🇪🇸
+ SEPLN 2018, Sevilla, Spain 🇪🇸
+ NAACL 2018, New Orleans, USA 🇺🇸</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/publications/</guid>
+      <description>Publications 📄 You can find my publications in my Google Scholar profile.
+Selected publications 2022  Flor Miriam Plaza-del-Arco, María-Teresa Martín Valdivia, and Roman Klinger. Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022) (pp. 6805-6817). 2022. [PDF] Flor Miriam Plaza-del-Arco, M. Dolores Molina-González, L. Alfonso Ureña-López, and María Teresa Martín-Valdivia. Integrating implicit and explicit linguistic phenomena via multi-task learning for offensive language detection.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/resources/</guid>
+      <description>Resources 📚 (Click on the respective link to download the resource or read the paper)
+Corpora  OffendES: A New Corpus in Spanish for Offensive Language Research [Hugging Face] [Paper] OffendES_spans: An extension of OffendES with Span annotations [Resource] [Paper] EmoEvent: A Multilingual Emotion Corpus based on different Events [Hugging Face] [Paper]  Lexicons  SHARE: A Lexicon of Harmful Expressions by Spanish Speakers [Resource] [Paper]  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/talks/</guid>
+      <description>Talks 🗣 2022  Round table El procesamiento del lenguaje natural desde la perspectiva de los especialistas en lingüística y en ingeniería. Jornadas AETER, Polytechnic University of Madrid, Spain. November 2022. Avanzando en la detección del lenguaje ofensivo en español. NLP Spain. Online. July 2022. [Slides] [Video] Round table Combatir el discurso de odio usando Tecnologías del Lenguaje. DiverTLess. Online. June 2022. [Slides] [Video]  2021  Multi-task learning with sentiment, emotion, and target detection to recognize hate speech and offensive language.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fmplaza.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fmplaza.github.io/teaching/</guid>
+      <description>Teaching 👩🏻‍🏫 2022  Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain.  2021  Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain.  2020  Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain.  Supervision Master’s thesis  Xanat Herrera Luján. Prompt Engineering for Zero-Shot Learning using Explainability Methods.</description>
+    </item>
+    
+  </channel>
+</rss>
