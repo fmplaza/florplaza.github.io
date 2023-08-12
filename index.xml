@@ -13,14 +13,17 @@
       
       <guid>https://fmplaza.github.io/gallery/</guid>
       <description>Gallery 📸 A photo tour of several conferences I have attended/participated in 🌍
- .image { display: inline-block; } }  AETER 2022, Madrid, Spain 🇪🇸
- LREC 2022, Marseille, France 🇫🇷
-  COLING 2022, Virtual 👩🏻‍💻
- SEPLN 2022, Galicia, Spain 🇪🇸
-  CLEF 2019, Lugano, Switzerland 🇨🇭
- SEPLN 2019, Bilbao, Spain 🇪🇸
- SEPLN 2018, Sevilla, Spain 🇪🇸
- NAACL 2018, New Orleans, USA 🇺🇸</description>
+ACL 2023, Toronto, Canada 🇨🇦
+AETER 2022, Madrid, Spain 🇪🇸
+LREC 2022, Marseille, France 🇫🇷
+COLING 2022, Virtual 👩🏻‍💻
+SEPLN 2022, Galicia, Spain 🇪🇸
+CLEF 2019, Lugano, Switzerland 🇨🇭
+SEPLN 2019, Bilbao, Spain 🇪🇸
+SEPLN 2018, Sevilla, Spain 🇪🇸
+NAACL 2018, New Orleans, USA 🇺🇸
+EMNLP 2018, Brussels, Belgium 🇧🇪
+SEPLN 2017, Murcia, Spain 🇪🇸</description>
     </item>
     
     <item>
@@ -30,7 +33,7 @@
       
       <guid>https://fmplaza.github.io/publications/</guid>
       <description>Publications 📄 You can find my publications in my Google Scholar profile.
-Selected publications 2022  Flor Miriam Plaza-del-Arco, María-Teresa Martín Valdivia, and Roman Klinger. Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022) (pp. 6805-6817). 2022. [PDF] Flor Miriam Plaza-del-Arco, M. Dolores Molina-González, L. Alfonso Ureña-López, and María Teresa Martín-Valdivia. Integrating implicit and explicit linguistic phenomena via multi-task learning for offensive language detection.</description>
+Selected publications 2023 Flor Miriam Plaza-del-Arco, Debora Nozza, and Dirk Hovy. Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification. Preprint. 2023. [PDF] Flor Miriam Plaza-del-Arco, Debora Nozza, and Dirk Hovy. Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech. In Proceedings of the The 7th Workshop on Online Abuse and Harms (WOAH) (pp.</description>
     </item>
     
     <item>
@@ -40,7 +43,7 @@ Selected publications 2022  Flor Miriam Plaza-del-Arco, María-Teresa Martín Va
       
       <guid>https://fmplaza.github.io/resources/</guid>
       <description>Resources 📚 (Click on the respective link to download the resource or read the paper)
-Corpora  OffendES: A New Corpus in Spanish for Offensive Language Research [Hugging Face] [Paper] OffendES_spans: An extension of OffendES with Span annotations [Resource] [Paper] EmoEvent: A Multilingual Emotion Corpus based on different Events [Hugging Face] [Paper]  Lexicons  SHARE: A Lexicon of Harmful Expressions by Spanish Speakers [Resource] [Paper]  </description>
+Corpora OffendES: A New Corpus in Spanish for Offensive Language Research [Hugging Face] [Paper] OffendES_spans: An extension of OffendES with Span annotations [Resource] [Paper] EmoEvent: A Multilingual Emotion Corpus based on different Events [Hugging Face] [Paper] Lexicons SHARE: A Lexicon of Harmful Expressions by Spanish Speakers [Resource] [Paper] </description>
     </item>
     
     <item>
@@ -49,7 +52,7 @@ Corpora  OffendES: A New Corpus in Spanish for Offensive Language Research [Hugg
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/talks/</guid>
-      <description>Talks 🗣 2023  Detección del lenguaje ofensivo en la era digital: retos y avances. Hackathon, Somos NLP. Online. April 2023. [Video] Round table Mesa Redonda 8M: PLN en la lucha contra el sexismo. Somos NLP, Online. March 2023. [Video]  2022  When Zero-Shot Learning meets Emotion Detection in Text. MilaNLP, Bocconi University (Milan, Italy). November 2021. [Slides] Round table El procesamiento del lenguaje natural desde la perspectiva de los especialistas en lingüística y en ingeniería.</description>
+      <description>Talks 🗣 2023 Prompt Engineering in NLP and prompting with LLMs. NLP Master Course at Bocconi University. March 2023. Detección del lenguaje ofensivo en la era digital: retos y avances. Hackathon, Somos NLP. Online. April 2023. [Video] Round table Mesa Redonda 8M: PLN en la lucha contra el sexismo. Somos NLP, Online. March 2023. [Video] 2022 When Zero-Shot Learning meets Emotion Detection in Text. MilaNLP, Bocconi University (Milan, Italy). November 2021.</description>
     </item>
     
     <item>
@@ -58,7 +61,7 @@ Corpora  OffendES: A New Corpus in Spanish for Offensive Language Research [Hugg
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/teaching/</guid>
-      <description>Teaching 👩🏻‍🏫 2022  Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain.  2021  Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain.  2020  Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain.  Supervision Master’s thesis  Christina Hitzl. Target Detection of Hate Speech and Offensive Language in Tweets.</description>
+      <description>Teaching 👩🏻‍🏫 2022 Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain. 2021 Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain. 2020 Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain. Supervision Master’s thesis Christina Hitzl. Target Detection of Hate Speech and Offensive Language in Tweets. (w/ Roman Klinger).</description>
     </item>
     
   </channel>
