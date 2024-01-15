@@ -45,7 +45,7 @@ SEPLN 2017, Murcia, Spain 🇪🇸</description>
       
       <guid>https://fmplaza.github.io/publications/</guid>
       <description>Publications 📄 You can find my publications in my Google Scholar profile.
-Selected publications 2023 Flor Miriam Plaza-del-Arco, Debora Nozza, and Dirk Hovy. Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification. Preprint. 2023. [PDF] Flor Miriam Plaza-del-Arco, Debora Nozza, and Dirk Hovy. Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech. In Proceedings of the The 7th Workshop on Online Abuse and Harms (WOAH) (pp.</description>
+Selected publications 2023 Giuseppe Attanasio, Flor Miriam Plaza-del-Arco, Debora Nozza, Anne Lauscher. A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing 2023. [PDF] Flor Miriam Plaza-del-Arco, Debora Nozza, and Dirk Hovy. Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification.</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@ Corpora OffendES: A New Corpus in Spanish for Offensive Language Research [Huggi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/talks/</guid>
-      <description>Talks 🗣 2023 &amp;ldquo;Are Instruction-Tuned Language Models Suitable as Annotators? Exploring Model Label Variation for Text Classification&amp;rdquo;. EPFL (Lausanne, Switzerland). October 2023. &amp;ldquo;Prompt Engineering in NLP and prompting with LLMs&amp;rdquo;. NLP Master Course at Bocconi University. March 2023. &amp;ldquo;Detección del lenguaje ofensivo en la era digital: retos y avances&amp;rdquo;. Hackathon, Somos NLP. Online. April 2023. [Video] Round table &amp;ldquo;Mesa Redonda 8M: PLN en la lucha contra el sexismo&amp;rdquo;. Somos NLP, Online.</description>
+      <description>Talks 🗣 2023 &amp;ldquo;Más Allá de las Palabras: Un Viaje en la Intersección del Lenguaje, Modelos Computacionales y Sociedad&amp;rdquo;. Università di Bologna (Bolonia, Italy). November 2023. &amp;ldquo;Are Instruction-Tuned Language Models Suitable as Annotators? Exploring Model Label Variation for Text Classification&amp;rdquo;. EPFL (Lausanne, Switzerland). October 2023. &amp;ldquo;Prompt Engineering in NLP and prompting with LLMs&amp;rdquo;. NLP Master Course at Bocconi University. March 2023. &amp;ldquo;Detección del lenguaje ofensivo en la era digital: retos y avances&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@ Corpora OffendES: A New Corpus in Spanish for Offensive Language Research [Huggi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/teaching/</guid>
-      <description>Teaching 👩🏻‍🏫 2022 Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain. 2021 Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain. 2020 Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain. Supervision Master’s thesis Christina Hitzl. Target Detection of Hate Speech and Offensive Language in Tweets. (w/ Roman Klinger).</description>
+      <description>Teaching 👩🏻‍🏫 2024 Natural Language Processing. Bocconi University, Milan. 2022 Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain. 2021 Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain. 2020 Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain. Supervision Master’s thesis Christina Hitzl. Target Detection of Hate Speech and Offensive Language in Tweets.</description>
     </item>
     
   </channel>
