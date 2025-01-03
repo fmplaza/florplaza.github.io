@@ -44,8 +44,8 @@ SEPLN 2017, Murcia, Spain 🇪🇸</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/publications/</guid>
-      <description>Publications 📄 You can find my publications in my Google Scholar profile.
-Selected publications 2024 Flor Miriam Plaza-del-Arco, Amanda Cercas Curry, Susanna Paoli, Alba Curry, Dirk Hovy. Divine LLaMAs: Bias, Stereotypes, Stigmatization, and Emotion Representation of Religion in Large Language Models. EMNLP 2024. [PDF] Flor Miriam Plaza-del-Arco, Amanda Cercas Curry, Alba Curry, Gavin Abercrombie, Dirk Hovy. Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution. ACL 2024.</description>
+      <description>Publications 📄 You can access my full list of publications on my Google Scholar profile.
+Selected publications 2024 Justin Zhao Flor Miriam Plaza-del-Arco, Benjie Genchel, Amanda Cercas Curry. Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks. [PDF] Flor Miriam Plaza-del-Arco, Amanda Cercas Curry, Susanna Paoli, Alba Curry, Dirk Hovy. Divine LLaMAs: Bias, Stereotypes, Stigmatization, and Emotion Representation of Religion in Large Language Models. EMNLP 2024 (Findings). [PDF] Flor Miriam Plaza-del-Arco, Amanda Cercas Curry, Alba Curry, Gavin Abercrombie, Dirk Hovy.</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@ Corpora OffendES: A New Corpus in Spanish for Offensive Language Research [Huggi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/talks/</guid>
-      <description>Talks 🗣 2024 &amp;ldquo;Ethics in NLP: unveiling gendered stereotypes in LLMs&amp;rdquo;. T3chFest. University Carlos III de Madrid Auditorium. March 2024. 2023 &amp;ldquo;Más Allá de las Palabras: Un Viaje en la Intersección del Lenguaje, Modelos Computacionales y Sociedad&amp;rdquo;. Università di Bologna (Bolonia, Italy). November 2023. &amp;ldquo;Are Instruction-Tuned Language Models Suitable as Annotators? Exploring Model Label Variation for Text Classification&amp;rdquo;. EPFL (Lausanne, Switzerland). October 2023. &amp;ldquo;Prompt Engineering in NLP and prompting with LLMs&amp;rdquo;.</description>
+      <description>Talks 🗣 2025 “Emotion Analysis in NLP: Challenges, Applications and Ethics”. Spanish Society for Natural Language Processing. Chapter of SEPLN talks. Online. 2024 &amp;ldquo;Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution”. Workshop on New Perspectives on Bias and Discrimination in Language Technology. University of Amsterdam. November 2024. “Wisdom of Instruction-Tuned Language Model Crowds. Exploring Model Label Variation”. Amazon Web Services RAI Scientific Meeting: Online. September 2024.</description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@ Corpora OffendES: A New Corpus in Spanish for Offensive Language Research [Huggi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fmplaza.github.io/teaching/</guid>
-      <description>Teaching 👩🏻‍🏫 2024 Natural Language Processing. MSc in Data Science and Business Analytics. Bocconi University, Milan, Italy. 2022 Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain. 2021 Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain. 2020 Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain. Supervision Master’s thesis Christina Hitzl.</description>
+      <description>Teaching 👩🏻‍🏫 2024 Natural Language Processing. MSc in Data Science and Business Analytics. Bocconi University, Milan, Italy. 2022 Human-Computer Interaction. Bachelor in Computer Science. University of Jaén, Spain. 2021 Natural Language Processing. Bachelor in Computer Science. University of Jaén, Spain. Information Retrieval. Bachelor in Computer Science. University of Jaén, Spain. 2020 Operating Systems. Bachelor in Computer Science. University of Jaén, Spain. Programming. Bachelor in Industrial Organization. University of Jaén, Spain. Supervision Master’s thesis Andrea Sorteni.</description>
     </item>
     
   </channel>
